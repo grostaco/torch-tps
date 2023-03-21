@@ -1,0 +1,2 @@
+# PyTorch implementation of "Exploiting the Textual Potential from Vision-Language Pre-training for Text-based Person Search"
+A PyTorch implementation of [Exploiting the Textual Potential from Vision-Language Pre-training for Text-based Person Search](https://arxiv.org/pdf/2303.04497.pdf) for TPS task
